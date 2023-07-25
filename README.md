@@ -13,5 +13,5 @@ C# Window Form
 
   
 ## Contact Me
-Feel free to contact me, if you are interest to chat with me  
+Feel free to contact me if you are interested in chatting with me.  
 [Telegram](https://t.me/kwwonggggg)
